@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francis0007
+- 👋 Hi, I’m @Francis
 - 👀 I’m interested in  Front-End Development and Back-End Development 
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 💞️ I’m looking to collaborate on ...
